@@ -1,0 +1,2 @@
+# many-to-one-unidirectional-mapping-in-hibernate-jpa-annotation-example-using-spring-boot-and-oracle
+Many To One Unidirectional Mapping In Hibernate/JPA Annotation Example Using Spring Boot and Oracle
